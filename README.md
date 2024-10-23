@@ -1,5 +1,7 @@
 Remote-Controlled Air Boat Project
+
 Overview
+
 This project involves the development of a remote-controlled airboat, utilizing an Arduino Uno to control both a servo for steering and an Electronic Speed Controller (ESC) for regulating the speed of the boat’s brushless motor. The Arduino reads input signals from a radio receiver and adjusts the motor speed and steering angle accordingly.
 
 Features
